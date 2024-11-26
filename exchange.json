@@ -1,0 +1,10 @@
+{
+  "main": "test.raml",
+  "name": "test",
+  "groupId": "32b20df0-e049-4eec-8465-8021984fb57a",
+  "assetId": "test",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
